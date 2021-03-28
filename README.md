@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @msai95, a budding data scientist with 2 years of experience in building end-to-end ML solutions. Currently, i am pursuing a master's degree in Data and Business Analytics.
+- 👀 I’m interested in exploring new problems that can be solved using ML and AI
+- 📫 How to reach me ... mail: mithun-sai.vankayalapati@rennes-sb.com
